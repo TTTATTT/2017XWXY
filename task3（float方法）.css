@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+#main{
+	width:100%; 
+	margin:0 auto;
+	background:#CCC; border:1px solid #999;
+	padding:20px;
+	max-width:1080px; min-width:980px;
+}
+.left{
+	background:#FFF; width:160px;
+	padding:20px;
+	border:solid 1px #999;
+	
+	float:left;
+}
+.left_teamlogo{
+	width:80px; height:80px;
+	border:1px solid #999;
+	
+	float:left
+}
+.clear{
+	clear:both;
+}
+.left h2{
+	font-size:14px;
+	
+	float:right;
+}
+/*left完结*/
+.center{
+    padding:20px;
+	margin-left:240px;
+	margin-right:140px;
+	background:#FFF;
+	border:1px solid #999;
+}
+.center p{
+	font-size:12px;
+}
+/*center结束*/
+
+.right{
+	width:120px;
+	background:#FFF;
+	border:1px solid #999;
+	
+    float:right;
+}
+.right_logo{
+	width:80px; height:80px; 
+	border:1px solid #999;
+	margin:20px;
+}
+/*right结束*/
+	
+	
+	
+	
+	
+	
+	
+	
